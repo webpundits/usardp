@@ -28,22 +28,9 @@ Use the promo code **“30NEW”** at checkout for a one-time discount on all US
 | **PROFESSIONAL** | \$18 | 200GB SSD | Intel E3 1230v2/L5520 | 32GB DDR3 | 1Gbps (Unlimited) | Win Server 2019/22 | 20+ US cities | \$10 (Extra) | [Order PROFESSIONAL](https://webpundits.in/clients/cart.php?a=add&pid=32) |
 | **ULTIMATE** | \$23 | 300GB SSD | Intel E3 1230v2/L5520 | 32GB DDR3 | 1Gbps (Unlimited) | Win Server 2019/22 | 20+ US cities | \$10 (Extra) | [Order ULTIMATE](https://webpundits.in/clients/cart.php?gid=33) |
 
-
 ***
 
-## 5. Reviews
-
-- "[A lifesaver for my work](https://www.trustpilot.com/reviews/678a6ff119690a9095b356fd) — I rely on RDPs to manage my freelance projects, and this provider has been amazing. From seamless setup to consistent speeds, everything has worked out perfectly. One thing I realized is how responsive their support team is _ they solved my query late at night without any delay. If I had to described it, I'd say their service combines affordability with excellence. Thanku, guys" – Vincent Davey
-
-- "[So worth it!](https://www.trustpilot.com/reviews/679911227fb227919861bfbb) — From my perspective, their servers are top-notch! No crashes, fast speeds, and super affordable. Amazingg service. Definitely my new go-to for RDP." – François Turgeon
-
-- "[My favorite RDP provider](https://www.trustpilot.com/reviews/6798baa9615aa14b4ee3b822) — NGL, I've been through some bad providers before, but these guys stand out. The 1gbps speed is legit, and their support team actually cares. One time, I had a setup issue, and they resolved it in minutes. What we experienced is real reliability. Great job!" – Bernard Baldwin
-
-- "[Smooth and hassle-free](https://www.trustpilot.com/reviews/6795331893e1bcf5515d1bd8) — When I started with RDP, I thought it'd be complicated. But here's the thing: their setup guide was simple, and their support team was always available to help. Looking back now, I've never had a single downtime, and their pricing is super fair. Not gonna lie, it's the smoothest RDP experience I've ever had. To sum it up, I'd recommend them to anyone" – Robin Hartley
-
-***
-
-## 6. Common Features
+## 5. Common Features
 
 - 1Gbps unlimited bandwidth network speed, perfect for streaming and gaming.
 - SSD storage fully dedicated for user data (OS on a separate drive).
@@ -55,6 +42,18 @@ Use the promo code **“30NEW”** at checkout for a one-time discount on all US
 - Full privacy with optional full Admin Access for complete control.
 - Choice of Windows Server versions (2019, 2022, or request others).
 
+***
+
+## 6. Reviews
+
+- "[A lifesaver for my work](https://www.trustpilot.com/reviews/678a6ff119690a9095b356fd) — I rely on RDPs to manage my freelance projects, and this provider has been amazing. From seamless setup to consistent speeds, everything has worked out perfectly. One thing I realized is how responsive their support team is _ they solved my query late at night without any delay. If I had to described it, I'd say their service combines affordability with excellence. Thanku, guys" – Vincent Davey
+
+- "[So worth it!](https://www.trustpilot.com/reviews/679911227fb227919861bfbb) — From my perspective, their servers are top-notch! No crashes, fast speeds, and super affordable. Amazingg service. Definitely my new go-to for RDP." – François Turgeon
+
+- "[My favorite RDP provider](https://www.trustpilot.com/reviews/6798baa9615aa14b4ee3b822) — NGL, I've been through some bad providers before, but these guys stand out. The 1gbps speed is legit, and their support team actually cares. One time, I had a setup issue, and they resolved it in minutes. What we experienced is real reliability. Great job!" – Bernard Baldwin
+
+- "[Smooth and hassle-free](https://www.trustpilot.com/reviews/6795331893e1bcf5515d1bd8) — When I started with RDP, I thought it'd be complicated. But here's the thing: their setup guide was simple, and their support team was always available to help. Looking back now, I've never had a single downtime, and their pricing is super fair. Not gonna lie, it's the smoothest RDP experience I've ever had. To sum it up, I'd recommend them to anyone" – Robin Hartley
+  
 ***
 
 For specialized OS versions or other specifications, contact support as customization options are available.
