@@ -18,7 +18,7 @@ Use the promo code **“30NEW”** at checkout for a one-time discount on all US
 
 ***
 
-## 4. The Plan Table
+## 4. Plans
 
 | Plan Name | Price (USD/mo) | Storage | CPU | RAM | Bandwidth | OS Options | Locations | Admin VPS Addon | Order Link |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
