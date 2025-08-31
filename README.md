@@ -48,7 +48,7 @@ Use the promo code **“30NEW”** at checkout for a one-time discount on all US
 - 1Gbps unlimited bandwidth network speed, perfect for streaming and gaming.
 - SSD storage fully dedicated for user data (OS on a separate drive).
 - 99.9% uptime guarantee with free DDoS protection.
-- Free 48 hours money-back guarantee.
+- No Questions Asked 48 hours money-back guarantee.
 - Multiple payment methods: credit/debit cards, PayPal, crypto (Bitcoin, Ethereum, USDT, etc.), and Indian payment methods (UPI, net banking).
 - Quick setup within 12 hours.
 - 24×7 live chat and technical support.
