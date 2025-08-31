@@ -1,7 +1,7 @@
 
 ## 1. WebPundits Official Website
 
-For more information and to explore our services, visit our official website: [WebPundits](https://webpundits.in)
+For more information and to explore our services, visit our official website: [https://webpundits.in/](https://webpundits.in)
 
 ***
 
@@ -61,9 +61,3 @@ For specialized OS versions or other specifications, contact support as customiz
 
 Prohibited activities include:
 Hacking, VPN running, streaming/encoding, iMacros, email spam, carding, crypto mining, bots, illegal activities.
-
-***
-
-
-
-
